@@ -1,6 +1,6 @@
 package com.skydan.customer;
-
 import com.skydan.AbstractTestcontainers;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
